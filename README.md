@@ -1,4 +1,4 @@
-# ExpenseTracker_Reactjs
+# Expense Tracker (React.js)
 
 
 Home page with a button to add new expenses.
